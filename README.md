@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning data analysis with SQL, R and Python.
+- ❤️ I am also interested in HTML.
 - 🤔 I’m looking for help with data analysis skills.
 - 💬 Ask me about anything related to statistics and data analytics!
 <!--
